@@ -7,7 +7,7 @@ A responsive web application that displays weather forecasts for cities around t
 ---
 
 ![Screenshot of the React Weather Dashboard](./screenshot.png)
-*(**Hint:** Take a screenshot of your finished app and save it as `screenshot.png` in your project's root folder to have it appear here!)*
+
 
 ## About The Project
 

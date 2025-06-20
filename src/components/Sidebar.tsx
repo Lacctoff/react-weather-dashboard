@@ -33,7 +33,7 @@ const Sidebar: React.FC<SidebarProps> = ({ cities, onCitySelect, selectedCity, i
         flex flex-col
       `}
     >
-      {/* Non-scrolling part */}
+      
       <div>
         <div className="flex items-center justify-between">
           <h2 className="text-xl font-bold">Filter Cities</h2>
@@ -55,8 +55,8 @@ const Sidebar: React.FC<SidebarProps> = ({ cities, onCitySelect, selectedCity, i
         />
       </div>
 
-      {/* Scrollable list */}
-      <ul className="mt-4 space-y-1 flex-grow overflow-y-auto"> {/* <-- ADDED: flex-grow and overflow-y-auto */}
+      
+      <ul className="mt-4 space-y-1 flex-grow overflow-y-auto"> 
         {filteredCities.map(city => (
           <li
             key={city.name}

@@ -7,7 +7,7 @@ import L from 'leaflet';
 // Fix for default marker icon issue with webpack
 import icon from 'leaflet/dist/images/marker-icon.png';
 import iconShadow from 'leaflet/dist/images/marker-shadow.png';
-import WeatherInfo from './weatherInfo';
+import WeatherInfo from './WeatherInfo';
 
 let DefaultIcon = L.icon({
     iconUrl: icon,
