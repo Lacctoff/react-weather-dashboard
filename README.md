@@ -2,11 +2,9 @@
 
 A responsive web application that displays weather forecasts for cities around the world on an interactive map. This project was built as a solution to a front-end developer coding challenge.
 
-### [View Live Demo](https://<your-username>.github.io/react-weather-dashboard/)
+### [View Live Demo](https://lacctoff.github.io/react-weather-dashboard/)
 
 ---
-
-![Screenshot of the React Weather Dashboard](./screenshot.png)
 
 
 ## About The Project
